@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on David Mullet</title>
-    <link>http://localhost:1313/tags/blog/</link>
+    <link>https://davidmullet.com/tags/blog/</link>
     <description>Recent content in Blog on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidmullet.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogs</title>
-      <link>http://localhost:1313/resources/blogs/</link>
+      <link>https://davidmullet.com/resources/blogs/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/blogs/</guid>
+      <guid>https://davidmullet.com/resources/blogs/</guid>
       <description> David Mullet @ Medium David Mullet @Substack </description>
     </item>
     <item>
       <title>Medium</title>
-      <link>http://localhost:1313/resources/medium/</link>
+      <link>https://davidmullet.com/resources/medium/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/medium/</guid>
+      <guid>https://davidmullet.com/resources/medium/</guid>
       <description> David Mullet @ Medium </description>
     </item>
     <item>
       <title>Substack</title>
-      <link>http://localhost:1313/resources/substack/</link>
+      <link>https://davidmullet.com/resources/substack/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/substack/</guid>
+      <guid>https://davidmullet.com/resources/substack/</guid>
       <description> David Mullet @Substack </description>
     </item>
   </channel>

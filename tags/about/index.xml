@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on David Mullet</title>
-    <link>http://localhost:1313/tags/about/</link>
+    <link>https://davidmullet.com/tags/about/</link>
     <description>Recent content in About on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidmullet.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/resources/about/</link>
+      <link>https://davidmullet.com/resources/about/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/about/</guid>
+      <guid>https://davidmullet.com/resources/about/</guid>
       <description>Coming Soon&amp;hellip;</description>
     </item>
   </channel>

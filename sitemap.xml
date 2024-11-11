@@ -2,50 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://davidmullet.com/tags/blog/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/blogs/</loc>
+    <loc>https://davidmullet.com/resources/blogs/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://davidmullet.com/posts/coming_soon/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/medium/</loc>
+    <loc>https://davidmullet.com/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/medium/</loc>
+    <loc>https://davidmullet.com/tags/medium/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>https://davidmullet.com/resources/medium/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/substack/</loc>
+    <loc>https://davidmullet.com/posts/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/substack/</loc>
+    <loc>https://davidmullet.com/resources/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://davidmullet.com/tags/substack/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
+    <loc>https://davidmullet.com/resources/substack/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidmullet.com/tags/</loc>
+    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://davidmullet.com/tags/about/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resources/about/</loc>
+    <loc>https://davidmullet.com/resources/about/</loc>
     <lastmod>2024-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/books/</loc>
-    <lastmod>2024-08-09T00:00:00+00:00</lastmod>
+    <loc>https://davidmullet.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/coming_soon/</loc>
-    <lastmod>2024-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/dvds/</loc>
+    <loc>https://davidmullet.com/dvds/</loc>
   </url>
 </urlset>
