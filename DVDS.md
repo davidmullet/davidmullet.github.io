@@ -1,12 +1,4 @@
----
-date: 2024-11-11
-draft: false
-title: "David & Ramona's DVDs"
-summary: "David & Ramona's DVDs..."
-tags: ["dvds", "movies"]
----
-
-## David & Ramona's DVDs - 2024-08-11
+## David & Ramona's DVDs - 2024-11-11
 
 1. [12 Angry Men](http://www.amazon.com/dp/B000056HEC/)
 1. [16 Blocks (Widescreen Edition)](http://www.amazon.com/dp/B000FFL2G6/)
