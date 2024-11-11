@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Mullet</title>
-    <link>https://davidmullet.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidmullet.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blogs</title>
-      <link>https://davidmullet.com/resources/blogs/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/resources/blogs/</guid>
-      <description> David Mullet @ Medium David Mullet @Substack </description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming Soon</title>
-      <link>https://davidmullet.com/posts/coming_soon/</link>
+      <link>http://localhost:1313/posts/coming_soon/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/coming_soon/</guid>
+      <guid>http://localhost:1313/posts/coming_soon/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     <item>
-      <title>Medium</title>
-      <link>https://davidmullet.com/resources/medium/</link>
+      <title>David @ Medium</title>
+      <link>http://localhost:1313/resources/medium/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/resources/medium/</guid>
+      <guid>http://localhost:1313/resources/medium/</guid>
       <description> David Mullet @ Medium </description>
     </item>
     <item>
-      <title>Substack</title>
-      <link>https://davidmullet.com/resources/substack/</link>
+      <title>David @ Substack</title>
+      <link>http://localhost:1313/resources/substack/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/resources/substack/</guid>
+      <guid>http://localhost:1313/resources/substack/</guid>
       <description> David Mullet @Substack </description>
     </item>
     <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/resources/writing/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/writing/</guid>
+      <description> David Mullet @ Medium David Mullet @Substack </description>
+    </item>
+    <item>
       <title>About</title>
-      <link>https://davidmullet.com/resources/about/</link>
+      <link>http://localhost:1313/resources/about/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/resources/about/</guid>
+      <guid>http://localhost:1313/resources/about/</guid>
       <description>Coming Soon&amp;hellip;</description>
     </item>
     <item>
       <title>David &amp; Ramona&#39;s DVDs</title>
-      <link>https://davidmullet.com/dvds/</link>
+      <link>http://localhost:1313/dvds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/dvds/</guid>
+      <guid>http://localhost:1313/dvds/</guid>
       <description>David &amp;amp; Ramona&amp;rsquo;s DVDs&amp;hellip;</description>
     </item>
   </channel>
