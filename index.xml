@@ -6,14 +6,28 @@
     <description>Recent content on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Coming Soon</title>
-      <link>http://localhost:1313/posts/coming_soon/</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/coming_soon/</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <title>About</title>
+      <link>http://localhost:1313/resources/about/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/about/</guid>
+      <description>This is the website of David Mullet.&#xA;Books, movies, and more to come&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Book Discovery Resources</title>
+      <link>http://localhost:1313/posts/book-discovery-resources/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-discovery-resources/</guid>
+      <description>Book Discovery Resources Here, fellow booklovers, are a few online resources to help you discover your next great read, whether through targeted selection or serendipity. Enjoy!&#xA;Read more&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Books: &#39;Bad Debts&#39; by Peter Temple</title>
+      <link>http://localhost:1313/posts/books-bad-debts-by-peter-temple/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-bad-debts-by-peter-temple/</guid>
+      <description>Books: &amp;lsquo;Bad Debts&amp;rsquo; by Peter Temple I first stumbled across Jack Irish on Acorn TV. It was (or should I say &amp;lsquo;is&amp;rsquo;, in today&amp;rsquo;s perpetual-life-via-streaming world?) an Australian TV series (and movies) starring Guy Pearce (LA Confidential, Memento, The King&amp;rsquo;s Speech). I enjoyed the TV series very much and recently sought out Peter Temple&amp;rsquo;s novels, on which the TV series is based.&#xA;Read more&amp;hellip;</description>
     </item>
     <item>
       <title>David @ Medium</title>
@@ -35,13 +49,6 @@
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resources/writing/</guid>
       <description> David Mullet @ Medium David Mullet @Substack </description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/resources/about/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/about/</guid>
-      <description>Coming Soon&amp;hellip;</description>
     </item>
     <item>
       <title>David &amp; Ramona&#39;s DVDs</title>
