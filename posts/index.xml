@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on David Mullet</title>
-    <link>https://davidmullet.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://davidmullet.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Books: &#39;Safe Houses&#39; by Dan Fesperman</title>
-      <link>https://davidmullet.com/posts/books-safe-houses/</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/books-safe-houses/</guid>
-      <description>Books: &amp;lsquo;Safe Houses&amp;rsquo; by Dan Fesperman In another post, I mentioned that most main characters in espionage stories are either professional spies or unwitting amateurs. That article highlighted the failed professionals of Mick Herron&amp;rsquo;s Slow Horses / Slough House series, who fall somewhat in between.&#xA;In Dan Fesperman&amp;rsquo;s Safe Houses, Helen Abell falls into this gap, as well, but from a different angle. Helen works on the fringe of the espionage business, managing safe houses for the CIA in 1979 Berlin.</description>
+      <title>Books: &#39;The Why is Everything&#39; by Michael Silver</title>
+      <link>http://localhost:1313/posts/books-the-why-is-everything/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-the-why-is-everything/</guid>
+      <description>Books: &amp;lsquo;The Why Is Everything: A Story of Football, Rivalry, and Revolution&amp;rsquo; by Michael Silver I just finished reading The Why Is Everything: A Story of Football, Rivalry, and Revolution by Michael Silver.&#xA;Silver is a sportswriter currently writing for The Athletic and has previously written for Sports Illustrated and the San Francisco Chronicle, among others.&#xA;In The Why Is Everything, Silver documents the rise of a young generation of NFL coaches, many of whom started or developed under long-time NFL head coach Mike Shanahan.</description>
     </item>
     <item>
       <title>Currently Reading</title>
-      <link>https://davidmullet.com/posts/currently-reading/</link>
+      <link>http://localhost:1313/posts/currently-reading/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/currently-reading/</guid>
+      <description>Currently Reading Gorky Park by Martin Cruz Smith </description>
+    </item>
+    <item>
+      <title>Books: &#39;Safe Houses&#39; by Dan Fesperman</title>
+      <link>http://localhost:1313/posts/books-safe-houses/</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/currently-reading/</guid>
-      <description>Currently Reading The Why is Everything: A Story of Football, Rivalry, and Revolution by Michael Silver Gorky Park by Martin Cruz Smith </description>
+      <guid>http://localhost:1313/posts/books-safe-houses/</guid>
+      <description>Books: &amp;lsquo;Safe Houses&amp;rsquo; by Dan Fesperman In another post, I mentioned that most main characters in espionage stories are either professional spies or unwitting amateurs. That article highlighted the failed professionals of Mick Herron&amp;rsquo;s Slow Horses / Slough House series, who fall somewhat in between.&#xA;In Dan Fesperman&amp;rsquo;s Safe Houses, Helen Abell falls into this gap, as well, but from a different angle. Helen works on the fringe of the espionage business, managing safe houses for the CIA in 1979 Berlin.</description>
     </item>
     <item>
       <title>The Slow Horses of Slough House</title>
-      <link>https://davidmullet.com/posts/the-slow-horses-of-slough-house/</link>
+      <link>http://localhost:1313/posts/the-slow-horses-of-slough-house/</link>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/the-slow-horses-of-slough-house/</guid>
+      <guid>http://localhost:1313/posts/the-slow-horses-of-slough-house/</guid>
       <description>The Slow Horses of Slough House Many espionage stories&amp;rsquo; protagonists fall into one of two categories&amp;hellip;&#xA;The first category is the espionage professional: Ian Fleming&amp;rsquo;s James Bond, Daniel Silva&amp;rsquo;s Gabriel Allon, and John LeCarre&amp;rsquo;s George Smiley all come to mind. Cool, calm, collected, they are trained and paid to do their nation&amp;rsquo;s dirty work.&#xA;At the other end of the spectrum is the unwitting amateur that finds themselves thrust into a situation which they are seemingly ill-equipped to deal with.</description>
     </item>
     <item>
       <title>Books: &#39;How We Got to Now: Six Innovations That Made the Modern World&#39; by Steven Johnson</title>
-      <link>https://davidmullet.com/posts/books-how-we-got-to-now/</link>
+      <link>http://localhost:1313/posts/books-how-we-got-to-now/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/books-how-we-got-to-now/</guid>
+      <guid>http://localhost:1313/posts/books-how-we-got-to-now/</guid>
       <description>Books: &amp;lsquo;How We Got to Now: Six Innovations That Made the Modern World&amp;rsquo; by Steven Johnson I just finished reading How We Got to Now: Six Innovations That Made the Modern World by Steven Johnson, and I enjoyed it quite a bit.&#xA;Goodreads rates it at 4.11 and I would say that is about right, if you enjoy history and science.&#xA;Read more&amp;hellip;</description>
     </item>
     <item>
       <title>Book Discovery Resources</title>
-      <link>https://davidmullet.com/posts/book-discovery-resources/</link>
+      <link>http://localhost:1313/posts/book-discovery-resources/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/book-discovery-resources/</guid>
+      <guid>http://localhost:1313/posts/book-discovery-resources/</guid>
       <description>Book Discovery Resources Here, fellow booklovers, are a few online resources to help you discover your next great read, whether through targeted selection or serendipity. Enjoy!&#xA;Read more&amp;hellip;</description>
     </item>
     <item>
       <title>Books: &#39;Bad Debts&#39; by Peter Temple</title>
-      <link>https://davidmullet.com/posts/books-bad-debts-by-peter-temple/</link>
+      <link>http://localhost:1313/posts/books-bad-debts-by-peter-temple/</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://davidmullet.com/posts/books-bad-debts-by-peter-temple/</guid>
+      <guid>http://localhost:1313/posts/books-bad-debts-by-peter-temple/</guid>
       <description>Books: &amp;lsquo;Bad Debts&amp;rsquo; by Peter Temple I first stumbled across Jack Irish on Acorn TV. It was (or should I say &amp;lsquo;is&amp;rsquo;, in today&amp;rsquo;s perpetual-life-via-streaming world?) an Australian TV series (and movies) starring Guy Pearce (LA Confidential, Memento, The King&amp;rsquo;s Speech). I enjoyed the TV series very much and recently sought out Peter Temple&amp;rsquo;s novels, on which the TV series is based.&#xA;Read more&amp;hellip;</description>
     </item>
   </channel>
