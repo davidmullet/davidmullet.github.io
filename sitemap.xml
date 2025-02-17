@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/magic/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/in-the-beginning-there-was-motown/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/music/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/magic/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-incomparable-ricky-jay/</loc>
