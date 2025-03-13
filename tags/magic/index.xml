@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic on David Mullet</title>
-    <link>http://localhost:1313/tags/magic/</link>
+    <link>https://davidmullet.com/tags/magic/</link>
     <description>Recent content in Magic on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidmullet.com/tags/magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Incomparable Ricky Jay</title>
-      <link>http://localhost:1313/posts/the-incomparable-ricky-jay/</link>
+      <link>https://davidmullet.com/posts/the-incomparable-ricky-jay/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-incomparable-ricky-jay/</guid>
+      <guid>https://davidmullet.com/posts/the-incomparable-ricky-jay/</guid>
       <description>The Incomparable Ricky Jay I think I first encountered Ricky Jay in David Mamet&amp;rsquo;s House of Games with Joe Mantegna and Lindsay Crouse. He would pop up now and again over the years in films and TV episodes, including the final season of Sneaky Pete, his last on-screen work. I enjoyed his crafty, cynical, world-weary con men wherever they made an appearance&amp;hellip;&#xA;Read more&amp;hellip;</description>
     </item>
   </channel>

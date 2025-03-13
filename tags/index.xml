@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Mullet</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://davidmullet.com/tags/</link>
     <description>Recent content in Tags on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://davidmullet.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://davidmullet.com/tags/books/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://davidmullet.com/tags/books/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/tags/music/</link>
+      <link>https://davidmullet.com/tags/music/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/music/</guid>
+      <guid>https://davidmullet.com/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Magic</title>
-      <link>http://localhost:1313/tags/magic/</link>
+      <link>https://davidmullet.com/tags/magic/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/magic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>http://localhost:1313/tags/books/</link>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/books/</guid>
+      <guid>https://davidmullet.com/tags/magic/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/tags/about/</link>
+      <link>https://davidmullet.com/tags/about/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/about/</guid>
+      <guid>https://davidmullet.com/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Medium</title>
-      <link>http://localhost:1313/tags/medium/</link>
+      <link>https://davidmullet.com/tags/medium/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/medium/</guid>
+      <guid>https://davidmullet.com/tags/medium/</guid>
       <description></description>
     </item>
     <item>
       <title>Substack</title>
-      <link>http://localhost:1313/tags/substack/</link>
+      <link>https://davidmullet.com/tags/substack/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/substack/</guid>
+      <guid>https://davidmullet.com/tags/substack/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/tags/writing/</link>
+      <link>https://davidmullet.com/tags/writing/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/writing/</guid>
+      <guid>https://davidmullet.com/tags/writing/</guid>
       <description></description>
     </item>
   </channel>
