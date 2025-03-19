@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on David Mullet</title>
-    <link>http://localhost:1313/resources/</link>
+    <link>https://davidmullet.com/resources/</link>
     <description>Recent content in Resources on David Mullet</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/resources/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://davidmullet.com/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/resources/about/</link>
+      <link>https://davidmullet.com/resources/about/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/about/</guid>
+      <guid>https://davidmullet.com/resources/about/</guid>
       <description>This is the website of David Mullet.&#xA;Books, movies, and more to come&amp;hellip;</description>
     </item>
     <item>
       <title>David @ Medium</title>
-      <link>http://localhost:1313/resources/medium/</link>
+      <link>https://davidmullet.com/resources/medium/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/medium/</guid>
+      <guid>https://davidmullet.com/resources/medium/</guid>
       <description> David Mullet @ Medium </description>
     </item>
     <item>
       <title>David @ Substack</title>
-      <link>http://localhost:1313/resources/substack/</link>
+      <link>https://davidmullet.com/resources/substack/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/substack/</guid>
+      <guid>https://davidmullet.com/resources/substack/</guid>
       <description> David Mullet @Substack </description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:1313/resources/writing/</link>
+      <link>https://davidmullet.com/resources/writing/</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/resources/writing/</guid>
+      <guid>https://davidmullet.com/resources/writing/</guid>
       <description> David Mullet @ Medium David Mullet @Substack </description>
     </item>
   </channel>
