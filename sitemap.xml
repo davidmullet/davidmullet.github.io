@@ -2,107 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://davidmullet.com/tags/books/</loc>
+    <loc>http://localhost:1313/tags/books/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-drowned/</loc>
+    <loc>http://localhost:1313/posts/books-the-drowned/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/currently-reading/</loc>
+    <loc>http://localhost:1313/posts/currently-reading/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/</loc>
+    <loc>http://localhost:1313/posts/how-one-gamer-fell-in-love-with-reading/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-unpleasantness-at-the-bellona-club/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/books-the-unpleasantness-at-the-bellona-club/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-life-of-crime/</loc>
+    <loc>http://localhost:1313/posts/books-the-life-of-crime/</loc>
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-karlas-choice/</loc>
+    <loc>http://localhost:1313/posts/books-karlas-choice/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-broken-trust/</loc>
+    <loc>http://localhost:1313/posts/books-broken-trust/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/in-the-beginning-there-was-motown/</loc>
+    <loc>http://localhost:1313/posts/in-the-beginning-there-was-motown/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/music/</loc>
+    <loc>http://localhost:1313/tags/music/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/magic/</loc>
+    <loc>http://localhost:1313/tags/magic/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/the-incomparable-ricky-jay/</loc>
+    <loc>http://localhost:1313/posts/the-incomparable-ricky-jay/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-wrong-hands/</loc>
+    <loc>http://localhost:1313/posts/books-the-wrong-hands/</loc>
     <lastmod>2025-02-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-blood-curse/</loc>
+    <loc>http://localhost:1313/posts/books-blood-curse/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-siege/</loc>
+    <loc>http://localhost:1313/posts/books-the-siege/</loc>
     <lastmod>2025-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/artificial-intelligence-for-dummies/</loc>
+    <loc>http://localhost:1313/posts/artificial-intelligence-for-dummies/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-the-why-is-everything/</loc>
+    <loc>http://localhost:1313/posts/books-the-why-is-everything/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-safe-houses/</loc>
+    <loc>http://localhost:1313/posts/books-safe-houses/</loc>
     <lastmod>2024-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/the-slow-horses-of-slough-house/</loc>
+    <loc>http://localhost:1313/posts/the-slow-horses-of-slough-house/</loc>
     <lastmod>2024-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-how-we-got-to-now/</loc>
+    <loc>http://localhost:1313/posts/books-how-we-got-to-now/</loc>
     <lastmod>2024-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/about/</loc>
+    <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/resources/about/</loc>
+    <loc>http://localhost:1313/resources/about/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/book-discovery-resources/</loc>
+    <loc>http://localhost:1313/posts/book-discovery-resources/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/resources/</loc>
+    <loc>http://localhost:1313/resources/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/posts/books-bad-debts-by-peter-temple/</loc>
+    <loc>http://localhost:1313/posts/books-bad-debts-by-peter-temple/</loc>
     <lastmod>2024-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/resources/medium/</loc>
+    <loc>http://localhost:1313/resources/medium/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/resources/substack/</loc>
+    <loc>http://localhost:1313/resources/substack/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/medium/</loc>
+    <loc>http://localhost:1313/tags/medium/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/substack/</loc>
+    <loc>http://localhost:1313/tags/substack/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/tags/writing/</loc>
+    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/resources/writing/</loc>
+    <loc>http://localhost:1313/resources/writing/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://davidmullet.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://davidmullet.com/dvds/</loc>
+    <loc>http://localhost:1313/dvds/</loc>
   </url>
 </urlset>
