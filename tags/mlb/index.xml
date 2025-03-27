@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mlb on David Mullet</title>
+    <link>http://localhost:1313/tags/mlb/</link>
+    <description>Recent content in Mlb on David Mullet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mlb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Opening Day. Another Epic Fail for the MLB Mobile App.</title>
+      <link>http://localhost:1313/posts/mlb-app-epic-fail/</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mlb-app-epic-fail/</guid>
+      <description>Another Opening Day. Another Epic Fail for the MLB Mobile App. You might think that, after more than a decade, Major League Baseball&amp;rsquo;s &amp;ldquo;At Bat&amp;rdquo; mobile app would be pretty reliable.&#xA;You would be wrong.&#xA;Instead of live play-by-play audio, eager fans paying $20 a year were greeted with error messages and MLB&amp;rsquo;s equivalent of hold music.&#xA;Read on Medium&amp;hellip;&#xA;Read on Substack&amp;hellip;.</description>
+    </item>
+  </channel>
+</rss>
