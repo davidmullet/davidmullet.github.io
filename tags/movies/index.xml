@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on David Mullet</title>
+    <link>http://localhost:1313/tags/movies/</link>
+    <description>Recent content in Movies on David Mullet</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books: &#39;Leave the Gun, Take the Cannoli&#39;</title>
+      <link>http://localhost:1313/posts/books-leave-the-gun-take-the-cannoli/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-leave-the-gun-take-the-cannoli/</guid>
+      <description>Books: &amp;ldquo;Leave the Gun, Take the Cannoli&amp;rdquo; I recently finished reading Leave the Gun, Take the Cannoli: The Epic Story of the Making of The Godfather by Mark Seal.&#xA;It&amp;rsquo;s an entertaining read that runs from author Mario Puzo&amp;rsquo;s writing of The Godfather through the casting, filming, and release of the Oscar-winning film. Seal delves into all aspects of the efforts to bring the novel to the screen&amp;hellip;&#xA;Read on Medium&amp;hellip;</description>
+    </item>
+    <item>
+      <title>The Voice in My Head</title>
+      <link>http://localhost:1313/posts/the-voice-in-my-head.md/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-voice-in-my-head.md/</guid>
+      <description>The Voice in My Head I&amp;rsquo;m reading a 1963 essay by James Bond author Ian Fleming, &amp;ldquo;How to Write a Thriller&amp;rdquo;, and I just realized that I hear it in my head as being read by George Sanders, ala his narration in &amp;ldquo;All About Eve&amp;rdquo;.</description>
+    </item>
+  </channel>
+</rss>
