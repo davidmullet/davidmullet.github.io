@@ -3,30 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/books/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/books-return-to-sender/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/crime-fiction/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/currently-reading/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mysteries/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/books-andrea-camilleri-inspector-montalbano/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/books-the-amateur/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/books-the-devils-cave/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/crime-fiction/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/currently-reading/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mysteries/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/crime-fiction-recent-reads/</loc>
