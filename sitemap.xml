@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tags/books/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/currently-reading/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gambling/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nba/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sports/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/nba-terry-rozier-betting/</loc>
+    <lastmod>2025-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/books-break-in/</loc>
     <lastmod>2025-08-17T00:00:00+00:00</lastmod>
@@ -48,9 +60,6 @@
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/f1/</loc>
-    <lastmod>2025-06-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sports/</loc>
     <lastmod>2025-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/books-leave-the-gun-take-the-cannoli/</loc>
